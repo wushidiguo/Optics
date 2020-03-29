@@ -32,4 +32,5 @@ Another important theorem is **Stokes’ theorem**:
 $$
 \int\limits_S(\nabla\times \bold F)\cdot\hat{\bold n}\ \mathrm{d}a=\oint\limits_C\bold F\cdot\mathrm{d}\boldsymbol{\ell}
 $$
-The integration on the left-hand side is over an open surface $S$ (not enclosing a volume). The integration on the right-hand side is around the edge of the surface. Again, $\hat n$ is a unit vector that always points normal to the surface. The vector $\mathrm{d}\boldsymbol{\ell}$ points along the curve $C$ that bounds the surface $S$.
+The integration on the left-hand side is over an open surface $S$ (not enclosing a volume). The integration on the right-hand side is around the edge of the surface. Again, $\hat n$ is a unit vector that always points normal to the surface. The vector $\mathrm{d}\boldsymbol{\ell}$ points along the curve $C$ that bounds the surface $S$. If the fingers of your right
+hand point in the direction of integration around $C$ , then your thumb points in the direction of $\hat{n}$.
